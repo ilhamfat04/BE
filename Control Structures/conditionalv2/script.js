@@ -1,4 +1,4 @@
-let theme = "mono";
+let theme = "default";
 
 switch (theme) {
   case "dark":
